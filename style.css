@@ -310,4 +310,14 @@ h2 {
   object-fit: cover;
   border-radius: 12px;
 }
+.project-big {
+  width: 100%;
+  border-radius: 16px;
+  margin-bottom: 30px;
+}
+
+.hero.small {
+  padding: 60px 0;
+}
+
 
