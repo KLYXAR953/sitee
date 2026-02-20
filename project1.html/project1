@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Проект 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<header class="hero small">
+  <div class="container">
+    <h1>Проект 1</h1>
+    <p class="subtitle">Подробная информация о проекте</p>
+    <a href="index.html" class="btn btn-outline">← Назад</a>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container">
+
+    <img src="img/1.jpg" class="project-big">
+
+    <h2>О проекте</h2>
+    <p>
+      Тут ты пишешь, что это за проект, какие задачи решал,
+      какие технологии использовал, что было сложного.
+    </p>
+
+    <a href="#" class="btn">Открыть сайт</a>
+
+  </div>
+</section>
+
+</body>
+</html>
