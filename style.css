@@ -300,4 +300,8 @@ h2 {
   background: #fff;
   color: #000;
 }
+.card {
+  text-decoration: none;
+  color: inherit;
+}
 
